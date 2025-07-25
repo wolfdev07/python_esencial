@@ -1,2 +1,4 @@
-def hello_word():
-    print("Hello Arturo")
+text =  "Texto de ejemplo"
+words = text.split()
+words = len(words)
+print(words)
